@@ -1,3 +1,5 @@
 WPU Resolusi
 - Belajar Git
 - Membuat website
+- Belajar Laravel
+
